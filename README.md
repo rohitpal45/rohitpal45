@@ -21,7 +21,8 @@ hi, i'm Rohit pal, a passionate self-taught full stack web developer and a freel
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/rohitpal45/rohitpal45/blob/master/code.gif?raw=true" width="500" height="320" />
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](rohitpal94522@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
