@@ -1,16 +1,11 @@
-### hey there 
+### Hi :wave: Rohit pal
 <a href="https://www.instagram.com/rohit_pal45i/">
   <img align="left" alt="Rohitpal's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="www.linkedin.com/in/rohit-pal-0036bb26a">
-  <img align="left" alt="Rohitpal's Discord" width="22px" src="www.linkedin.com/in/rohit-pal-0036bb26a" />
+<a href="https://www.linkedin.com/in/rohit-pal-0036bb26a/">
+  <img align="left" alt="Rohitpal's Linked In" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
-<a href="https://twitter.com/rohit_pal45i">
-  <img align="left" alt="rohit_pal45i | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rohit-pal-544932237/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rohitpal45.rohitpal45)
 
